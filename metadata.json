@@ -1,0 +1,7 @@
+{
+  "name": "Enfoque - Curso de Fotografía para Principiantes",
+  "description": "Aprende a tomar fotos con intención, no por suerte. Curso práctico de fotografía para celular y cámara de entrada en Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
